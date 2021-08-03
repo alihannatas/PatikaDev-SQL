@@ -1,8 +1,8 @@
-# SQL KURSU ODEV 1
+# SQL Course Homework 1
 
 
 
-## Soru 1
+## Question 1
 
 
 
@@ -13,7 +13,7 @@ FROM film;
 
 ```
 
-## Soru 2
+## Question  2
 
 
 
@@ -24,7 +24,7 @@ WHERE length> 60 AND length < 75;
 
 
 
-##  Soru 3
+##  Question  3
 
 
 
@@ -37,7 +37,7 @@ OR replacement_cost = 28.99;
 
 
 
-## Soru 4
+## Question 4
 
 
 
@@ -50,7 +50,7 @@ Cevap =last_name = 'Smith'
 
 
 
-## Soru 5
+## Question 5
 
 
 
